@@ -1,0 +1,55 @@
+
+.pricing-section{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pricing-section > div{
+    margin-left: 80px;
+    border-color: black;
+    border: 2px solid black;
+}
+
+.pricing-section .tittle{
+    background-color: darkgrey;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.pricing-section h2{
+    text-align: center;
+}
+.list{
+    margin-left: 30px;
+}
+
+.pricing-section button{
+    margin-left: 25%;
+    background-color: yellow;
+
+}
+
+footer{
+    background-color: darkgrey;
+    margin-top: 50px;
+}
+footer >div{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    padding-left: 40px;
+}
+footer .copyright {
+    margin-left: 10px;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
